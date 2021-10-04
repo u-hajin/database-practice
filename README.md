@@ -15,4 +15,4 @@ Create(생성), Read(읽기), Update(수정, 갱신), Delete(삭제) -> CRUD
 
 ***
 
-### velog - https://velog.io/@redrawn/DATABASE-DATABASE1-정리
+velog - https://velog.io/@redrawn/DATABASE-DATABASE1-정리
