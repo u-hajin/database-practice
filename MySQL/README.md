@@ -8,3 +8,6 @@
 
 ### Practice of MySQL_3 - 2021.10.09
 실습환경을 구축했습니다. MySQL을 설치하고 cmd를 사용해 MySQL을 실행했습니다.
+
+### Practice of MySQL_4 - 2021.10.10
+표(table), 데이터베이스(db, schema), 데이터베이스 서버로 이루어진 구조에 대해 배웠습니다.
