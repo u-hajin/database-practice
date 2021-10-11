@@ -1,0 +1,7 @@
+CREATE DATABASE usuyn; // "usuyn" 이름을 가지는 DB 생성
+
+DROP DATABASE usuyn; // "usuyn" DB를 삭제
+
+SHOW DATABASES; // 생성되어 있는 DB list 출력
+
+USE usuyn; // 앞으로 "usuyn" DB에 있는 표를 대상으로 명령 실행
