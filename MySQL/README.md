@@ -22,3 +22,11 @@ DB가 보안 측면에서 가지는 장점과 권한 부여 기능에 대해 배
 ### Practice of MySQL_7 - 2021.10.12
 SQL이 어떤 언어인지에 대해 배웠습니다.  
 DB를 구성하며 row와 column으로 나누어지는 표의 기본 구조에 대해 배웠습니다.
+
+### Practice of MySQL_8 - 2021.10.13
+table 생성 방법을 배웠습니다.  
+column을 설정할 때 필요한 MySQL의 여러 데이터 타입과 제약 조건을 설정하는 방법을 배웠습니다.
+
+![image](https://user-images.githubusercontent.com/68963707/137009061-f67f8fa5-e310-43c9-a612-63bedcc8e23a.png)
+
+<img src="https://user-images.githubusercontent.com/68963707/137009616-123560ad-5c2c-4c99-9487-490b92760efb.png" width="500" height="auto">
