@@ -30,3 +30,6 @@ column을 설정할 때 필요한 MySQL의 여러 데이터 타입과 제약 조
 ![image](https://user-images.githubusercontent.com/68963707/137009061-f67f8fa5-e310-43c9-a612-63bedcc8e23a.png)
 
 <img src="https://user-images.githubusercontent.com/68963707/137009616-123560ad-5c2c-4c99-9487-490b92760efb.png" width="500" height="auto">
+
+### Practice of MySQL_9 - 2021.10.13
+DB에서 가장 중요한 기능인 Create, Read에 대해 간략한 설명을 들었습니다.
