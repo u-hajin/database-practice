@@ -33,3 +33,11 @@ column을 설정할 때 필요한 MySQL의 여러 데이터 타입과 제약 조
 
 ### Practice of MySQL_9 - 2021.10.13
 DB에서 가장 중요한 기능인 Create, Read에 대해 간략한 설명을 들었습니다.
+
+### Practice of MySQL_10 - 2021.10.14
+INSERT 명령을 통한 데이터 삽입 방법을 배웠습니다.  
+데이터가 삽입된 table을 보여주는 SELECT * FROM 명령을 배웠습니다.
+
+<img src="https://user-images.githubusercontent.com/68963707/137249185-fc432366-8c91-4723-8ffb-7172a95e994e.png" width="700" height="auto">
+
+
