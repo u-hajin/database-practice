@@ -1,0 +1,11 @@
+SHOW TABLES;
+
+DESC topic;
+
+INSERT INTO topic (title, description, created, author, profile) VALUES('MySQL', 'MySQL is ...', NOW(), 'Usagi', 'developer');
+INSERT INTO topic (title, description, created, author, profile) VALUES('ORACLE', 'ORACLE is ...', NOW(), 'Rei', 'developer');
+INSERT INTO topic (title, description, created, author, profile) VALUES('SQL Server', 'SQL Server is ...', NOW(), 'Ami', 'data administrator');
+INSERT INTO topic (title, description, created, author, profile) VALUES('PostgreSQL', 'PostgreSQL is ...', NOW(), 'Kino', 'data scientist ,developer');
+INSERT INTO topic (title, description, created, author, profile) VALUES('MongoDB', 'MongoDB is ...', NOW(), 'Meioh', 'developer');
+
+SELECT * FROM topic;
