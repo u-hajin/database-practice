@@ -43,3 +43,11 @@ INSERT 명령을 통한 데이터 삽입 방법을 배웠습니다.
 ### Practice of MySQL_11 - 2021.10.15
 table에 삽입된 데이터를 조회하는 SELECT 문법에 대해 배웠습니다.  
 특정 column만 조회하는 경우, 특정 데이터 가진 row만 조회하는 경우, 정렬, 보이는 row의 개수 제한 등 여러가지 조건에 따른 SELECT문을 배웠습니다.
+
+<img src="https://user-images.githubusercontent.com/68963707/137513215-953e9339-3bfd-418a-b3e4-cdb50a20743e.png" width="400" height="auto">
+
+<img src="https://user-images.githubusercontent.com/68963707/137513354-390a2226-ff84-4088-8473-3680c6d1714e.png" width="600" height="auto">
+
+<img src="https://user-images.githubusercontent.com/68963707/137513451-1181b8bb-2cd4-4ff1-ae3d-3151c899e407.png" width="700" height="auto">
+
+<img src="https://user-images.githubusercontent.com/68963707/137513541-5bdefdaa-2833-41d8-8ecd-41db85ef7def.png" width="700" height="auto">
