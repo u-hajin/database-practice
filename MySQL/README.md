@@ -38,7 +38,7 @@ DB에서 가장 중요한 기능인 Create, Read에 대해 간략한 설명을 �
 INSERT 명령을 통한 데이터 삽입 방법을 배웠습니다.  
 데이터가 삽입된 table을 보여주는 SELECT * FROM 명령을 배웠습니다.
 
-<img src="https://user-images.githubusercontent.com/68963707/137507150-c3416677-03f2-4776-98fd-675dfaa4a1d0.png" width="700" height="auto">
+<img src="https://user-images.githubusercontent.com/68963707/137512713-2aa6b650-702a-4257-9147-481027f43223.png" width="700" height="auto">
 
 ### Practice of MySQL_11 - 2021.10.15
 table에 삽입된 데이터를 조회하는 SELECT 문법에 대해 배웠습니다.  
