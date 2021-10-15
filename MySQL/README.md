@@ -39,3 +39,7 @@ INSERT 명령을 통한 데이터 삽입 방법을 배웠습니다.
 데이터가 삽입된 table을 보여주는 SELECT * FROM 명령을 배웠습니다.
 
 <img src="https://user-images.githubusercontent.com/68963707/137507150-c3416677-03f2-4776-98fd-675dfaa4a1d0.png" width="700" height="auto">
+
+### Practice of MySQL_11 - 2021.10.15
+table에 삽입된 데이터를 조회하는 SELECT 문법에 대해 배웠습니다.  
+특정 column만 조회하는 경우, 특정 데이터 가진 row만 조회하는 경우, 정렬, 보이는 row의 개수 제한 등 여러가지 조건에 따른 SELECT문을 배웠습니다.
