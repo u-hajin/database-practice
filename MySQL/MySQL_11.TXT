@@ -1,0 +1,7 @@
+SELECT id, title, author FROM topic;
+
+SELECT id, title, author FROM topic WHERE author='Usagi';
+
+SELECT id, title, author FROM topic WHERE author='Usagi' ORDER BY id DESC;
+
+SELECT id, title, author FROM topic WHERE author='Usagi' ORDER BY id DESC LIMIT 2;
