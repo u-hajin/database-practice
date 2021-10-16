@@ -57,3 +57,7 @@ table에 삽입된 데이터를 수정하는 UPDATE에 대해 배웠습니다.
 
 <img src="https://user-images.githubusercontent.com/68963707/137591685-11025f26-1657-4f58-8a3c-91f5699ccfd8.png" width="700" height="auto">
 
+### Practice of MySQL_13 - 2021.10.16
+table에 삽입된 데이터를 삭제하는 DELETE에 대해 배웠습니다.
+
+<img src="https://user-images.githubusercontent.com/68963707/137591936-93a9b721-1c25-46ce-a1d2-fd0f8a3d5ac2.png" width="700" height="auto">
