@@ -1,0 +1,5 @@
+SELECT * FROM topic;
+
+UPDATE topic SET title='Oracle', description='Oracle is ...' WHERE id=2;
+
+SELECT * FROM topic;
