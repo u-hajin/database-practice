@@ -51,3 +51,9 @@ table에 삽입된 데이터를 조회하는 SELECT 문법에 대해 배웠습�
 <img src="https://user-images.githubusercontent.com/68963707/137513451-1181b8bb-2cd4-4ff1-ae3d-3151c899e407.png" width="700" height="auto">
 
 <img src="https://user-images.githubusercontent.com/68963707/137513541-5bdefdaa-2833-41d8-8ecd-41db85ef7def.png" width="700" height="auto">
+
+### Practice of MySQL_12 - 2021.10.16
+table에 삽입된 데이터를 수정하는 UPDATE에 대해 배웠습니다.
+
+<img src="https://user-images.githubusercontent.com/68963707/137591685-11025f26-1657-4f58-8a3c-91f5699ccfd8.png" width="700" height="auto">
+
