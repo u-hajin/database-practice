@@ -1,0 +1,5 @@
+SELECT * FROM topic;
+
+DELETE FROM topic WHERE id=5;
+
+SELECT * FROM topic;
