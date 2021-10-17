@@ -61,3 +61,7 @@ table에 삽입된 데이터를 수정하는 UPDATE에 대해 배웠습니다.
 table에 삽입된 데이터를 삭제하는 DELETE에 대해 배웠습니다.
 
 <img src="https://user-images.githubusercontent.com/68963707/137591936-93a9b721-1c25-46ce-a1d2-fd0f8a3d5ac2.png" width="700" height="auto">
+
+### Practice of MySQL_14 - 2021.10.17
+지금까지 배운 내용을 정리했습니다.  
+앞으로 배울 관계형 의 의미와 필요성에 대해 간략히 정리했습니다.
