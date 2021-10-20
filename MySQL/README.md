@@ -72,5 +72,11 @@
 - 데이터를 별도의 table로 보관, 중복을 발생시키지 않으면서 하나의 table로 합쳐진 결과를 보고 싶을 때 사용하는 JOIN의 개념에 대해 배웠습니다.
 
 ### Practice of MySQL_16 - 2021.10.20
-기존 topic table을 topic_backup table로 변경했습니다.
-author, topic table을 새로 생성해 기존의 topic table의 데이터를 분리했습니다.
+- 기존 topic table을 topic_backup table로 변경했습니다.  
+- author, topic table을 새로 생성해 topic_backup table의 데이터를 분리했습니다.
+
+<img src="https://user-images.githubusercontent.com/68963707/138127991-305b0e56-6018-4eec-aad3-8a2e5f5856a6.png" width="500" height="auto">
+
+<img src="https://user-images.githubusercontent.com/68963707/138128036-fd69d2c1-d3ca-433d-85ee-24d97e3b83f2.png" width="300" height="auto">
+
+
