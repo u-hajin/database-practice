@@ -71,3 +71,6 @@
 - 중복의 문제점을 해결하기 위해 topic, author table을 각각 분리, 생성하고 얻는 장점과 단점을 비교했습니다.  
 - 데이터를 별도의 table로 보관, 중복을 발생시키지 않으면서 하나의 table로 합쳐진 결과를 보고 싶을 때 사용하는 JOIN의 개념에 대해 배웠습니다.
 
+### Practice of MySQL_16 - 2021.10.20
+기존 topic table을 topic_backup table로 변경했습니다.
+author, topic table을 새로 생성해 기존의 topic table의 데이터를 분리했습니다.
