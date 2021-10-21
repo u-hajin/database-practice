@@ -80,6 +80,14 @@
 <img src="https://user-images.githubusercontent.com/68963707/138128036-fd69d2c1-d3ca-433d-85ee-24d97e3b83f2.png" width="300" height="auto">
 
 ### Practice of MySQL_17 - 2021.10.21
-topic, author table을 하나의 table로 합치기 위해 JOIN을 사용했습니다.  
-topic의 author_id의 값과 같은 값을 가지고 있는 author table의 행을 가져와서 topic table과 함께 합쳐 출력했습니다.  
-별칭을 지정하는 AS를 사용했습니다.
+- topic, author table을 하나의 table로 합치기 위해 JOIN을 사용했습니다.  
+- topic의 author_id의 값과 같은 값을 가지고 있는 author table의 행을 가져와서 topic table과 함께 합쳐 출력했습니다.  
+- 별칭을 지정하는 AS를 사용했습니다.
+
+<img src="https://user-images.githubusercontent.com/68963707/138308806-1439626e-ae3b-434b-8c19-b2e4fdb1edee.png" width="800" height="auto">
+
+<img src="https://user-images.githubusercontent.com/68963707/138314862-412f10d6-d1b4-4b85-bf34-f3182db228b5.png" width="600" height="auto">
+
+<img src="https://user-images.githubusercontent.com/68963707/138314987-233af3fd-e66d-4a29-81e8-66efc4591e0c.png" width="700" height="auto">
+
+
