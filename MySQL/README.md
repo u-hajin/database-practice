@@ -90,4 +90,5 @@
 
 <img src="https://user-images.githubusercontent.com/68963707/138314987-233af3fd-e66d-4a29-81e8-66efc4591e0c.png" width="700" height="auto">
 
-
+### Practice of MySQL_18 - 2021.10.23
+- 인터넷과 DB의 관계에 대해 배웠습니다.
