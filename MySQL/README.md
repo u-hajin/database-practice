@@ -91,4 +91,5 @@
 <img src="https://user-images.githubusercontent.com/68963707/138314987-233af3fd-e66d-4a29-81e8-66efc4591e0c.png" width="700" height="auto">
 
 ### Practice of MySQL_18 - 2021.10.23
-- 인터넷과 DB의 관계에 대해 배웠습니다.
+- 인터넷과 DB의 관계에 대해 배웠습니다.  
+- DB 클라이언트와 DB 서버를 구분하고 어떤 차이가 있는지 역할은 무엇인지 배웠습니다.
