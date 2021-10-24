@@ -93,3 +93,7 @@
 ### Practice of MySQL_18 - 2021.10.23
 - 인터넷과 DB의 관계에 대해 배웠습니다.  
 - DB 클라이언트와 DB 서버를 구분하고 어떤 차이가 있는지 역할은 무엇인지 배웠습니다.
+
+### Practice of MySQL_19 - 2021.10.24
+- MySQL client에는 어떤 것들이 있는지 알아봤습니다.
+- CLI 기반 MySQL Monitor와 GUI 기반 MySQL Workbench의 차이점과 각 장점, 단점에 대해 배웠습니다.
