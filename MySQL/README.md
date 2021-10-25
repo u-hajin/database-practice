@@ -135,3 +135,7 @@
 - CLI 기반 MySQL Monitor와 GUI 기반 MySQL Workbench의 차이점과 각 장점, 단점에 대해 배웠습니다.
 
 ***
+
+### Practice of MySQL_20 - 2021.10.25
+- MySQL Workbench를 설치하고 사용하는 방법을 배웠습니다.
+- MySQL Monitor에서 명령어를 사용해 수행했던 작업을 MySQL Workbench에서 수행했습니다.
