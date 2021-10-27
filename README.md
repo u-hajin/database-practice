@@ -20,5 +20,5 @@ Study database, MySQL,..
 velog - https://velog.io/@redrawn/DATABASE-DATABASE1-정리
 
 ## MySQL (2021.10.08 - 2021.10.27)
-README - https://github.com/usuyn/database-practice#readme
+README - https://github.com/usuyn/database-practice#readme  
 velog - https://velog.io/@redrawn/DATABASE-MySQL-정리
